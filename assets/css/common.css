@@ -1,0 +1,113 @@
+.auth-btns .auth-btn{
+    margin-left: 1rem;
+    color: #fff;
+    text-transform: uppercase;
+    border: 1px solid var(--border-btn);
+    border-radius: 5px;
+    padding: 0.5rem 0.8rem;
+    background-color: var(--primary);
+    transition: all 0.3s ease-in-out;
+}
+
+.auth-btns .auth-btn.transparent{
+    color: var(--primary);
+    background-color: #fff;
+    transition: all 0.3s ease-in-out;
+}
+
+.auth-btns .auth-btn:hover{
+    color: var(--primary);
+    background-color: #fff;
+}
+
+.auth-btns .auth-btn.transparent:hover{
+    color: #fff;
+    background-color: var(--primary);
+}
+
+.input-group{
+    margin-bottom: 1rem;
+}
+
+.input-group .input-field input{
+    width: 100%;
+    padding: 0.7rem;
+    border: none;
+    outline: none;
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--input-group-color);
+}
+
+
+.input-group .input-field{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    border: 1px solid var(--input-group-color);
+    border-radius: 5px;
+    padding: 0 0.5rem;
+    margin-bottom: 0.2rem;
+}
+
+.input-group .input-field i{
+    color: var(--input-group-color);
+}
+
+.input-group .input-field i{
+    color: var(--input-group-color);
+}
+
+.input-group .input-error{
+    color: var(--input-error);
+    font-size: 15px;
+}
+
+.input-group .input-field.input-error{
+    border: 1px solid var(--input-error);
+}
+
+.input-group .input-field.input-error i{
+    color: var(--input-error);
+}
+
+
+.input-group .auth-btns .auth-btn{
+    margin-left: 1rem;
+    color: #fff;
+    text-transform: uppercase;
+    border: 1px solid var(--border-btn);
+    border-radius: 5px;
+    padding: 0.5rem 0.8rem;
+    background-color: var(--primary);
+    transition: all 0.3s ease-in-out;
+}
+
+.input-group .auth-btns .auth-btns .auth-btn.transparent{
+    color: var(--primary);
+    background-color: #fff;
+    transition: all 0.3s ease-in-out;
+}
+
+.auth-btns .auth-btn:hover{
+    color: var(--primary);
+    background-color: #fff;
+}
+
+.doc-wrapper{
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: yellow;
+    width: 300px;
+}
+
+.doc-wrapper img{
+    height: 200px;
+    width: 300px;
+}
+
+.doc-wrapper .info{
+    padding: 0.3rem;
+}

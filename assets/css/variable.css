@@ -1,0 +1,45 @@
+:root{
+
+    --primary: #3e2723 ;
+    --secondary: #a1887f ;
+    --bg-primary: rgba(62, 39, 35, 0.03);
+    --border-btn: rgba(62, 39, 35, 0.3);
+    --input-group-color: rgba(62, 39, 35, 0.6);
+    --input-error:#dd2c00;
+    --input-success:#2e7d32;
+    --white: #fff;
+    --height-header:4rem;
+    --black-rgba-1: rgba(0, 0, 0, 0.1);
+}
+
+:root{
+    --space-r-l-section-lg: 0 8rem;
+    --space-r-l-section-md: 0 4rem;
+    --space-r-l-section-sm: 0 1.5rem; 
+
+
+    --shadow-border-header: 3px 3px 5px 6px rgba(62, 39, 35, 0.1);
+    --bg-primary: rgba(62, 39, 35, 0.03);
+
+
+    --primary-rgba-1:  rgba(62, 39, 35, 0.1);
+    --primary-rgba-2:  rgba(62, 39, 35, 0.2);
+    --primary-rgba-3:  rgba(62, 39, 35, 0.3);
+    --primary-rgba-4:  rgba(62, 39, 35, 0.4);
+    --primary-rgba-5:  rgba(62, 39, 35, 0.5);
+    --primary-rgba-6:  rgba(62, 39, 35, 0.6);
+    --primary-rgba-7:  rgba(62, 39, 35, 0.7);
+    --primary-rgba-8:  rgba(62, 39, 35, 0.8);
+    --primary-rgba-9:  rgba(62, 39, 35, 0.9);
+    --primary-rgba-10:  rgba(62, 39, 35, 1);
+
+    --facebook: #3b5998;
+    --facebook-rgba: rgba(59,89,152,0.1);
+    --whatsapp: #43d854;
+    --whatsapp-rgba: rgba(67,216,84,0.1);
+    --twitter: #55acee;
+    --twitter-rgba: rgba(85,172,238,0.1);
+    --google: #dc4e41;
+    --google-rgba: rgba(220,78,65,0.1);
+}
+

@@ -1,0 +1,25 @@
+{
+  "name": "template-gui-finddoc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "server": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parfait-237/parfait-237.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parfait-237/parfait-237/issues"
+  },
+  "homepage": "https://github.com/parfait-237/parfait-237#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
